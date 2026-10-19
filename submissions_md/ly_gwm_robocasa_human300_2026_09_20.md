@@ -10,7 +10,7 @@
 - Code URL: [https://github.com/SEIN-LYGWM/LY-GWM-RoboCasa-Human300-eval](https://github.com/SEIN-LYGWM/LY-GWM-RoboCasa-Human300-eval)
 - Checkpoint URL: [https://huggingface.co/lygwm-review/LY-GWM-RoboCasa-Human300/tree/180883d9af9ee02edc3c53fe20babdc7658d1127](https://huggingface.co/lygwm-review/LY-GWM-RoboCasa-Human300/tree/180883d9af9ee02edc3c53fe20babdc7658d1127)
 - Commit hash: 79b247c854df116614d9ec5db29406c329a18603
-- Paper link: [https://github.com/SEIN-LYGWM/LY-GWM-RoboCasa-Human300-eval/blob/d6f2815d99380b6857a3d88cdb6d6fd0fc5f9d40/docs/LYGWM_RoboCasa_Technical_Report_EN.pdf](https://github.com/SEIN-LYGWM/LY-GWM-RoboCasa-Human300-eval/blob/d6f2815d99380b6857a3d88cdb6d6fd0fc5f9d40/docs/LYGWM_RoboCasa_Technical_Report_EN.pdf)
+- Paper link: [https://arxiv.org/abs/2610.23274](https://arxiv.org/abs/2610.23274)
 - Open Source: yes
 - PR: [https://github.com/robocasa-benchmark/leaderboard/pull/19](https://github.com/robocasa-benchmark/leaderboard/pull/19)
 - Batch size: 128
